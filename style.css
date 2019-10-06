@@ -1,3 +1,32 @@
 body {
     font-size: 20px;
+    text-align: center;
+    font-family: 'Patua One', cursive;
+    background-image: url("https://animal-wallpaper.com/wallpaper/card-poker-wallpaper-background-For-Background-HD-Wallpaper.jpg");
+
+}
+
+#text-area {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid darkslategray;
+    border-radius: 15px;
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+
+}
+
+button {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    border-radius: 20px;
+    font-size: 16px;
+}
+
+
+button:hover {
+    background-color: indianred;
+    color: white;
 }
